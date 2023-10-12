@@ -6,9 +6,15 @@ Entre las tareas estuvo la limpieza de datos, eliminación de columnas, análisi
 >
 
 Se realizaron los siguientes pasos:
+
 1 Transformación de datos paso a paso.
+
 2 Exportación de datos a formato csv.
+
 3 Uso de librerias pandas, seaborn, matplotlib.
+
 4 Análisis de gráficos, relación entre datos .
+
 5 Generación de conclusiones.
+
 6 Generación de KPIs de acuerdo al análisis.
