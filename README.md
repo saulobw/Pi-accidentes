@@ -18,3 +18,9 @@ Se realizaron los siguientes pasos:
 5 Generación de conclusiones.
 
 6 Generación de KPIs de acuerdo al análisis.
+
+#ANÁLISIS
+
+Nos quizimos enfocar en las rutas mas accidentes y las lineas que tuvieron mayor frecuencia de accidentes en  estas rutras 
+
+y asi poder determinar si las aeronaves necesitan mejoras de acuerdo a la ruta establecida o cambios en los requesitos para esos vuelos.
